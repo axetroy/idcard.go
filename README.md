@@ -4,8 +4,6 @@
 ![License](https://img.shields.io/badge/license-Apache-green.svg)
 ![Size](https://github-size-badge.herokuapp.com/gpmer/gpm.js.svg)
 
-API almost like NodeJs [fs module](http://nodejs.cn/api/fs.html)
-
 ## Usage
 
 TODO
