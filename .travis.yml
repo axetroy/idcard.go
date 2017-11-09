@@ -1,0 +1,10 @@
+language: go
+sudo: false
+
+os:
+  - linux
+
+go: master
+
+script:
+  - go test -v
