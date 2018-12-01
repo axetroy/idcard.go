@@ -1,8 +1,8 @@
 package id_parser
 
 import (
-  "testing"
   "fmt"
+  "testing"
 )
 
 func Test_Parser(t *testing.T) {
