@@ -4,6 +4,12 @@
 ![License](https://img.shields.io/badge/license-Apache-green.svg)
 ![Size](https://github-size-badge.herokuapp.com/gpmer/gpm.js.svg)
 
+中国身份证解析器
+
+- [x] 身份证校验
+- [x] 信息提取(省份/城市/城区代码，出生年月，顺序号，校验码)
+- [ ] 生成有效的身份证号码
+
 ## Usage
 
 TODO
@@ -11,12 +17,12 @@ TODO
 ## Contributing
 
 ```bash
-go get https://github.com/axetroy/id-parser.go.git
-cd $GOPATH/src/github.com/axetroy/id-parser.go
+go get https://github.com/axetroy/idcard.go.git
+cd $GOPATH/src/github.com/axetroy/idcard.go
 go test -v
 ```
 
-[Contributing Guid](https://github.com/axetroy/Github/blob/master/CONTRIBUTING.md)
+[Contributing Guid](CONTRIBUTING.md)
 
 ## Test
 
